@@ -1,4 +1,4 @@
-require 'pry'
+
 def find_min_value(array)
   # Add your solution here
   count = 0 
@@ -11,4 +11,3 @@ def find_min_value(array)
 end
 minimum
 end
-binding.pry
