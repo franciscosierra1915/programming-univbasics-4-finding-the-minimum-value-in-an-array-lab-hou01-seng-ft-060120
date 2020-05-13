@@ -1,4 +1,3 @@
-require 'pry'
 def find_min_value(array)
   # Add your solution here
   count = 0 
