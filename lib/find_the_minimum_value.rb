@@ -3,6 +3,10 @@ def find_min_value(array)
   count = 0 
   minimun = nil 
   while count < array.lenght do
-    if minimum < 
+    if minimum < array[counter] 
+      minimum = array[counter]
+    end
+    counter += 1
 end
+puts minimum
 end
